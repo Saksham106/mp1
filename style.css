@@ -33,7 +33,6 @@ header h1 {
     font-size: calc(16px + 2vw);
 }
 
-/* Navigation Bar */
 nav {
     width: 30%;
     background: #d2691e;
@@ -64,7 +63,6 @@ nav ul li a:hover {
     background: #ffb74d;
 }
 
-/* Main Content */
 #container {
     display: flex;
     flex-direction: row;
@@ -132,7 +130,6 @@ main {
     background: #f5f5f5;
 }
 
-/* Image & Text Side by Side */
 #main {
     display: flex;
     flex-direction: row;
